@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Praline';
+  src: url('./assets/fonts/686a829f68c4f7d722c21a81b223bf35.eot') format('embedded-opentype'),;
+  src: url('./assets/fonts/686a829f68c4f7d722c21a81b223bf35.woff2') format('woff2'),
+       url('./assets/fonts/686a829f68c4f7d722c21a81b223bf35.woff') format('woff'),
+       url('./assets/fonts/686a829f68c4f7d722c21a81b223bf35.ttf') format('truetype'),
+       url('./assets/fonts/686a829f68c4f7d722c21a81b223bf35.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
